@@ -1,4 +1,4 @@
 import "./styles.css";
-import { greeting } from "./greeting.js";
+import { capitalize } from "./capitalize.js";
 
 console.log(greeting);
